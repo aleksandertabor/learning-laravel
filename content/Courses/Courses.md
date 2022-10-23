@@ -1,0 +1,10 @@
+Courses:
+- [[Develop and Deploy Laravel Applications with Docker]]
+- [[Event Sourcing in Laravel]]
+- [[Eloquent Performance Patterns]]
+- [[Laravel beyond CRUD]]
+- [[Laravel Package Training]]
+- [[Master Laravel with Vue.js Fullstack Development]]
+- [[Testing Laravel]]
+- [[Useful Laravel Packages]]
+- [[YouTube channels]]

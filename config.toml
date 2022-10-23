@@ -1,8 +1,9 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://learning-laravel.com/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = ""
 relativeURLs = false
 disablePathToLower = true
+pygmentsUseClasses = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
@@ -10,6 +11,7 @@ ignoreFiles = [
 summaryLength = 20
 paginate = 10
 enableGitInfo = true
+pluralizelisttitles = false
 
 [markup]
     [markup.tableOfContents]
