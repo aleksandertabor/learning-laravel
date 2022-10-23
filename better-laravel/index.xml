@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Better Laravel on</title><link>https://learning-laravel.com/better-laravel/</link><description>Recent content in Better Laravel on</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://learning-laravel.com/better-laravel/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://learning-laravel.com/Better-Laravel/Actions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Actions/</guid><description>Title: Why I wrote Laravel Actions
+Author: Loris Leiva
+Link: https://lorisleiva.com/why-i-wrote-laravel-actions
+Title: Refactoring to actions
+Author: Freek Van der Herten</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/APIs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/APIs/</guid><description>Title: Building and testing APIs in Laravel
+Author: Steve McDougall
+Links: [[Video]] https://www.youtube.com/watch?v=0pylMAlfw5k&amp;t=2750s</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Batches/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Batches/</guid><description>Title: Laravel Batches and real-time progress with Livewire
+Author: Philo Hermans
+Link: https://philo.dev/laravel-batches-and-real-time-progress-with-livewire/</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Better-Laravel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Better-Laravel/</guid><description>Better Laravel:
+[[Actions]] [[APIs]] [[Batches]] [[Cache]] [[Casts]] [[Collections]] [[Database]] [[Design Patterns]] [[Development]] [[Domain-Driven Design (DDD)]] [[Eloquent]] [[Facades]] [[Form Requests]] [[JavaScript]] [[Livewire]] [[Models]] [[Pipelines]] [[Repositories]] [[Responses]] [[Scheduler]] [[Security]] [[Seeders]] [[Tests]] [[URL Generation]] [[Value Objects]] [[View Models]]</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Blade/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Blade/</guid><description>Title: Extensible Blade Components
+Author: Marcus Moore
+Link: https://tighten.com/blog/extensible-blade-components/</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Cache/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Cache/</guid><description>Title: 100ms -&amp;gt; 40ms -&amp;gt; 1ms: Maximizing response caching in Laravel
+Author: Samuel Štancl
+Link: https://samuelstancl.me/maximizing-response-caching-in-laravel
+Title: Laravel caching basics</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Casts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Casts/</guid><description>Title: Casting JSON columns to DTOs with Laravel&amp;rsquo;s custom casts
+Author: Alexandru Stratulat
+Link: https://sandulat.com/mapping-json-columns-to-dtos-with-laravels-new-custom-casts/
+Title: Casting JSON Columns to Value Objects with Laravel</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Collections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Collections/</guid><description>Title: Giving collections a voice
+Author: Tim MacDonald
+Link: https://timacdonald.me/giving-collections-a-voice/
+Title: Expressive Eloquent collections
+Author: Tim MacDonald
+Link: https://youtu.be/06--kezKc0Q</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Database/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Database/</guid><description>Title: Eloquent MySQL views
+Author: Brent Roose
+Link: https://stitcher.io/blog/eloquent-mysql-views
+Title: Single Table Inheritance
+Author: Mateus Guimarães
+Links: [[Video]] https://www.youtube.com/watch?v=R5fMcpDGuGg https://www.</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Design-Patterns/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Design-Patterns/</guid><description>Title: Design Patterns with Laravel
+Author: Colin Decarlo
+Links: https://youtu.be/e4ugSgGaCQ0
+Title: Patterns That Pay Off
+Author: Matt Staufer
+Links: https://www.</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Development/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Development/</guid><description>Title: The current state of local Laravel development
+Author: Andrew Schmelyun
+Link: https://aschmelyun.com/blog/the-current-state-of-local-laravel-development/</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Domain-Driven-Design-DDD/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Domain-Driven-Design-DDD/</guid><description>Title: Conciliating Laravel and DDD
+Author: Loris Leiva
+Link: https://lorisleiva.com/conciliating-laravel-and-ddd
+Title: Conciliating Laravel and DDD (part 2)
+Author: Loris Leiva</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Eloquent/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Eloquent/</guid><description>Title: Laravel Custom Relation Classes - Relationship issues
+Author: Brent Roose
+Link: https://stitcher.io/blog/laravel-custom-relation-classes
+Title: Query scopes, meet action scopes</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Error-Handling/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Error-Handling/</guid><description>Title: Rendering response from Laravel exception
+Author: Orkhan Ahmadov
+Link: https://orkhan.dev/2020/12/02/rendering-response-from-laravel-exception/
+Title: Laravel&amp;rsquo;s exceptions: part 2 – Custom exceptions</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Facades/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Facades/</guid><description>Title: Why I use global helpers instead of facades
+Author: Samuel Štancl
+Link: https://forum.archte.ch/laravel/t/why-i-use-global-helpers-instead-of-facades</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Factories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Factories/</guid><description>Title: The Benefits of Minimal Factories in Laravel
+Author: Joel Clermont
+Link: https://joelclermont.com/post/2022-05/the-benefits-of-minimal-factories-in-laravel/</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Form-Requests/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Form-Requests/</guid><description>Title: Mapping requests to DTOs inside Laravel&amp;rsquo;s form requests
+Author: Alexandru Stratulat
+Link: https://sandulat.com/mapping-requests-to-dtos-inside-form-requests/
+Title: Mapping Form Request to Eloquent</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/JavaScript/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/JavaScript/</guid><description>Title: Vite with Laravel
+Author: Sebastian De Deyne
+Links: https://sebastiandedeyne.com/vite-with-laravel/ https://www.youtube.com/watch?v=wLwVr9ToNIs&amp;t=2475s</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Livewire/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Livewire/</guid><description>Title: Advanced Livewire: Traits
+Author: Samuel Štancl
+Link: https://forum.archte.ch/livewire/t/advanced-livewire-traits
+Title: LivewireUI Modal &amp;amp; Spotlight
+Author: Philo Hermans
+Links: [[Video]] https://www.</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Models/</guid><description>Title: Dedicated query builders for Eloquent models
+Author: Tim MacDonald
+Link: https://timacdonald.me/dedicated-eloquent-model-query-builders/</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Pipelines/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Pipelines/</guid><description>Title: Understanding Laravel Pipelines
+Author: Jeff Ochoa
+Link: https://jeffochoa.me/understanding-laravel-pipelines</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Repositories/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Repositories/</guid><description>Title: Using Repository Pattern in Laravel 5
+Author: Mirza Pasic
+Link: https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/
+Title: Laravel Repository Pattern – PHP Design Pattern</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Responses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Responses/</guid><description>Title: Unconventional Laravel: Responsable classes
+Author: Ryan Chandler
+Link: https://ryangjchandler.co.uk/posts/unconventional-laravel-responable-classes
+Title: Versatile response objects in Laravel
+Author: Tim MacDonald</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Scheduler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Scheduler/</guid><description>Title: Laravel Pseudo-Daemons
+Author: Aaron Francis
+Link: https://aaronfrancis.com/2020/laravel-pseudo-daemons</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Security/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Security/</guid><description>Title: Think Like a Hacker (for Laravel)
+Author: Stephen Rees-Carter
+Link: https://stephenreescarter.net/talks/hacking-laravel/
+Title: Laravel’s safety mechanisms
+Author: Aaron Francis</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Seeders/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Seeders/</guid><description>Title: Laravel Seeders on Steroids
+Author: Ryan Chandler
+Link: https://ryangjchandler.co.uk/posts/laravel-seeders-on-steroids</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Tests/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Tests/</guid><description>Title: Tidying Up Your PHPUnit Tests with Data Providers
+Author: Chris Trombley Tighten
+Link: https://tighten.co/blog/tidying-up-your-phpunit-tests-with-data-providers/
+Title: Working with fixture data in your tests</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Translations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Translations/</guid><description>Title: Translated Text in Source Code
+Author: Liam Hammett
+Link: https://liamhammett.com/translated-text-in-source-code-N3zxW8r7</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Upload-Files/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Upload-Files/</guid><description>Learn how to upload files in Laravel like a Pro
+Author: Steve McDougall
+Link: https://laravel-news.com/uploading-files-laravel</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/URL-Generation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/URL-Generation/</guid><description>Title: Using Laravel&amp;rsquo;s signed URLs to add action links to emails
+Author: Freek Van der Herten
+Link: https://freek.dev/1713-using-laravels-signed-urls-to-add-action-links-to-emails</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/Value-Objects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/Value-Objects/</guid><description>Title: Domain-Driven Design with Laravel - Value Objects
+Author: Martin Joo
+Link: https://martinjoo.dev/domain-driven-design-with-laravel-value-objects
+Title: Using Value Objects to Give Meaning</description></item><item><title/><link>https://learning-laravel.com/Better-Laravel/View-Models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://learning-laravel.com/Better-Laravel/View-Models/</guid><description>Title: Laravel view models
+Author: Brent Roose
+Link: https://stitcher.io/blog/laravel-view-models
+Title: Laravel Blade &amp;amp; View Models
+Author: Sebastian De Deyne</description></item></channel></rss>
