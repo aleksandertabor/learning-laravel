@@ -1,3 +1,5 @@
+![Learning-Laravel.com](logo.svg)
+
 # Learning Laravel
 ## What will you find here?
 - [Better Laravel](Better%20Laravel/Better%20Laravel.md)
@@ -15,5 +17,3 @@
 
 ## Contributing
 [[CONTRIBUTING]]
-
-[[People/Aaron Francis]]

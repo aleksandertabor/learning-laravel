@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/aleksandertabor/learning-laravel/tree/hugo/data
+GitHubLink: https://github.com/aleksandertabor/learning-laravel/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
@@ -23,3 +23,5 @@ links:
     link: https://twitter.com/aleksandertabor
   - link_name: Github
     link: https://github.com/aleksandertabor
+favicon:
+  - { rel: "shortcut icon", href: "logo.svg", type: "image/svg+xml" }

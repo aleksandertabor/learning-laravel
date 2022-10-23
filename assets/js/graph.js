@@ -236,6 +236,8 @@ async function drawGraph(baseUrl, isHome, pathColors, graphConfig) {
     .raise()
     .call(drag(simulation))
 
+    console.log(labels)
+
   // set panning
 
   if (enableZoom) {
