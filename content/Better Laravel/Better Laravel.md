@@ -6,6 +6,7 @@ Better Laravel:
 - [[Casts]]
 - [[Collections]]
 - [[Database]]
+- [Debugging](Better%20Laravel/Debugging.md)
 - [[Design Patterns]]
 - [[Development]]
 - [[Domain-Driven Design (DDD)]]
